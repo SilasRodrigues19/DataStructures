@@ -52,9 +52,11 @@
 
 
 
-The website is one page only:
-* **Step 1**: enter your name, weight and height.
-* **Step 2** click in "adicionar" to add to the list
+The website is divided in:
+* **[1] Inserir registro na lista / Create**: enter the register in the list.
+* **[2] Exibir o registro da lista / Read ** display all records in the list.
+* **[3] Remover o registro da lista / Delete** delete record from list.
+* **[4] Sair do programa / Exit** exit program.
 
 ### Built With
 
