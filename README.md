@@ -45,10 +45,10 @@
 ## About The Project
 
 [![About View][About View]](https://github.com/SilasRodrigues19/DataStructures)
-[![About View2][About View]](https://github.com/SilasRodrigues19/DataStructures)
-[![About View3][About View]](https://github.com/SilasRodrigues19/DataStructures)
-[![About View4][About View]](https://github.com/SilasRodrigues19/DataStructures)
-[![About View5][About View]](https://github.com/SilasRodrigues19/DataStructures)
+[![About View2][About View2]](https://github.com/SilasRodrigues19/DataStructures)
+[![About View3][About View3]](https://github.com/SilasRodrigues19/DataStructures)
+[![About View4][About View4]](https://github.com/SilasRodrigues19/DataStructures)
+[![About View5][About View5]](https://github.com/SilasRodrigues19/DataStructures)
 
 
 
