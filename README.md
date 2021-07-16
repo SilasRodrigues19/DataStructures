@@ -60,7 +60,7 @@ The website is one page only:
 
 Technologies used in the project.
 
-### Lingugem
+### Linguagem
 * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * [Data Structures - List](https://en.wikipedia.org/wiki/List_of_data_structures)
 
