@@ -45,10 +45,6 @@
 ## About The Project
 
 [![About View][About View]](https://github.com/SilasRodrigues19/DataStructures)
-[![About View2][About View2]](https://github.com/SilasRodrigues19/DataStructures)
-[![About View3][About View3]](https://github.com/SilasRodrigues19/DataStructures)
-[![About View4][About View4]](https://github.com/SilasRodrigues19/DataStructures)
-[![About View5][About View5]](https://github.com/SilasRodrigues19/DataStructures)
 
 
 
@@ -105,8 +101,4 @@ Project Link: [https://github.com/SilasRodrigues19/DataStructures](https://githu
 [issues-url]: https://github.com/SilasRodrigues19/DataStructures/issues
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/DataStructures.svg?style=for-the-badge
 [license-url]: https://github.com/SilasRodrigues19/DataStructures/blob/master/LICENSE
-[About View]: https://github.com/SilasRodrigues19/DataStructures/blob/main/img/ProvaED.png
-[About View2]: https://github.com/SilasRodrigues19/DataStructures/blob/main/img/ProvaED2.png
-[About View3]: https://github.com/SilasRodrigues19/DataStructures/blob/main/img/ProvaED3.png
-[About View4]: https://github.com/SilasRodrigues19/DataStructures/blob/main/img/ProvaED4.png
-[About View5]: https://github.com/SilasRodrigues19/DataStructures/blob/main/img/ProvaED5.png
+[About View]: https://github.com/SilasRodrigues19/DataStructures/blob/main/img/ProvaED.gif
