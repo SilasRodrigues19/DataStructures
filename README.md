@@ -48,7 +48,7 @@
 
 
 
-The website is divided in:
+The project is divided in:
 * **[1] Inserir registro na lista / Create**: enter the register in the list.
 * **[2] Exibir o registro da lista / Rea** display all records in the list.
 * **[3] Remover o registro da lista / Delete** delete record from list.
