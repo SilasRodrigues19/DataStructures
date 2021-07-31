@@ -102,3 +102,6 @@ Project Link: [https://github.com/SilasRodrigues19/DataStructures](https://githu
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/DataStructures.svg?style=for-the-badge
 [license-url]: https://github.com/SilasRodrigues19/DataStructures/blob/master/LICENSE
 [About View]: https://github.com/SilasRodrigues19/DataStructures/blob/main/img/preview.gif
+
+<br><hr>
+[🔼 Back to top](#Data-Structures)
